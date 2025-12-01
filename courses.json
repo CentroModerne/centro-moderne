@@ -48,6 +48,30 @@
     "src": "c_ortodontia.html",
     "target": "Cirurgiões-dentistas graduados que desejam se aprofundar na Ortodontia, seja para iniciar sua atuação na área ou para atualizar seus conhecimentos com as abordagens mais modernas do diagnóstico e tratamento ortodôntico. O curso é ideal para profissionais que buscam aliar teoria e prática clínica, com ênfase em fluxo digital, alinhadores transparentes, ortodontia preventiva e interceptativa, além de uma visão integrada das disfunções temporomandibulares."
   },
+	{
+    "title": "Ortodontia",
+    "level": "Especialização",
+    "professors": [
+      "Profª Thiara Macedo",
+      "Profª Mª Helena Ocké",
+      "Profª Vanessa Temer"
+    ],
+    "duration": "36 meses",
+    "description": [
+      "Além de abordar as técnicas ortodônticas tradicionais, o curso tem ênfase em alinhadores ortodônticos e na utilização do fluxo digital.",
+      "Os equipamentos ortodônticos de alta tecnologia estão todos disponíveis para os alunos durante o curso."
+    ],
+    "methodology": [
+      "Teórica",
+      "Laboratorial",
+      "Prática clínica",
+      "Atendimento ao Paciente"
+    ],
+    "location": "Rua Almirante Barros, 96 – Centro – Itabuna BA CEP 45.600-290",
+    "image": "/assets/img/professores/prof_ortodontia.png",
+    "src": "c_ortodontia.html",
+    "target": "Cirurgiões-dentistas graduados que desejam se aprofundar na Ortodontia, seja para iniciar sua atuação na área ou para atualizar seus conhecimentos com as abordagens mais modernas do diagnóstico e tratamento ortodôntico. O curso é ideal para profissionais que buscam aliar teoria e prática clínica, com ênfase em fluxo digital, alinhadores transparentes, ortodontia preventiva e interceptativa, além de uma visão integrada das disfunções temporomandibulares."
+  },
   {
     "title": "Cirurgia Oral Menor",
     "level": "Aperfeiçoamento",
